@@ -1,6 +1,7 @@
 # Imbalanced_polariton_condensate
 
-## This folder contains scripts used to produce results published in (Crescent states in charge-imbalanced polariton condensates)[https://arxiv.org/abs/2001.07726]
+## This folder contains scripts used to produce results published in 
+(Crescent states in charge-imbalanced polariton condensates)[https://arxiv.org/abs/2001.07726]
 
 File finite_T_min_init.py is the main file containing all the scripts required to produce the data
 
